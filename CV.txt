@@ -72,3 +72,23 @@ Data Science and Engineering with Apache® Spark
 ----------------------------------------------------------------
 CS105x: Introduction to Apache Spark
 https://courses.edx.org/certificates/ade14eb24d7344c6918baff5862ca03e
+
+
+3. Deep Learning Courses - As an auditor:
+
+---------
+Udacity
+---------
+Deep Learning by  Google [ud730]
+
+---------------------
+Stanford University
+---------------------
+CS231n: Convolutional Neural Networks for Visual Recognition,
+Andrej Karpathy, Justin Johnson, Fei-Fei Li (Winter 2016).
+
+----------------------
+University of Toronto
+----------------------
+Neural Networks for Machine Learning
+Geoffrey Hinton (2013)
