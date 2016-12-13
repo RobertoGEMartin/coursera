@@ -1,0 +1,74 @@
+1. Coursera Certificates:
+
+----------------------------------------------------------------
+UC San Diego & splunk
+----------------------------------------------------------------
+"Introduction to Big Data by University of California, San Diego on Coursera. Certificate earned on September 22, 2016".
+https://www.coursera.org/account/accomplishments/records/KM64BBUUPFM8
+
+"Big Data Modeling and Management Systems by University of California, San Diego on Coursera. Certificate earned on October 16, 2016".
+https://www.coursera.org/account/accomplishments/records/UFD59YSVRBD8
+
+"Big Data Integration and Processing by University of California, San Diego on Coursera. Certificate earned on October 13, 2016".
+https://www.coursera.org/account/accomplishments/records/AKYCZV36JQSD
+
+"Graph Analytics for Big Data by University of California, San Diego on Coursera. Certificate earned on October 17, 2016".
+https://www.coursera.org/account/accomplishments/records/T328D2YSVSLW
+
+Machine Learning With Big Data by University of California, San Diego on Coursera. Certificate earned on November 26, 2016".
+https://www.coursera.org/account/accomplishments/records/5T9KZLQ8GACD
+
+
+----------------------------------------------------------------
+Machine Learning Specialization
+Univerity of Washington & Turi(Apple Inc. acquires Turi in 2016)
+-----------------------------------------------------------------
+
+"Machine Learning Foundations: A Case Study Approach by University of Washington on Coursera. Certificate earned on July 13, 2016".
+https://www.coursera.org/account/accomplishments/records/BJXPERLJQRUJ
+
+"Machine Learning: Regression by University of Washington on Coursera. Certificate earned on July 29, 2016".
+https://www.coursera.org/account/accomplishments/records/ZPNN5EZBWPEP
+
+"Machine Learning: Classification by University of Washington on Coursera. Certificate earned on August 20, 2016".
+https://www.coursera.org/account/accomplishments/records/9NLEV4L99VU6
+
+"Machine Learning: Clustering & Retrieval by University of Washington on Coursera. Certificate earned on September 9, 2016".
+https://www.coursera.org/account/accomplishments/records/FWPE28KDJ4RL
+
+----------------------------------------------------------------
+Stanford University
+----------------------------------------------------------------
+"Machine Learning by Stanford University on Coursera. Certificate earned on March 15, 2016".
+https://www.coursera.org/account/accomplishments/records/9YV6HVVDHQ47
+
+
+
+2. edX Certificates:
+
+----------------------------------------------------------------
+Microsoft Professional Program Certificate in Data Science
+----------------------------------------------------------------
+
+DAT101x: Data Science Orientation [Microsoft]
+https://courses.edx.org/certificates/2ff31206c57748ebb784dfb089b47631
+
+DAT201x: Querying with Transact-SQL [Microsoft]
+https://courses.edx.org/certificates/d9cc81556037440ebc1328c327241ffe
+
+DS101X: Statistical Thinking for Data Science and Analytics [Columbia University]
+https://courses.edx.org/certificates/0f9a4e1db7f74fcea96486ebae91846e
+
+DAT208x: Introduction to Python for Data Science [Microsoft]
+https://courses.edx.org/certificates/cb152f5fb1e94fa8963d6993d5c258f1
+
+DAT203.1x: Data Science Essentials [Microsoft]
+https://courses.edx.org/certificates/a1f1b46fff034f91bc81ee77c246ee7f
+
+
+----------------------------------------------------------------
+Berkeley - University Of California
+Data Science and Engineering with Apache® Spark
+----------------------------------------------------------------
+CS105x: Introduction to Apache Spark
+https://courses.edx.org/certificates/ade14eb24d7344c6918baff5862ca03e
