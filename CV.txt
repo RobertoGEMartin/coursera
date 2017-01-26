@@ -80,6 +80,9 @@ https://courses.edx.org/certificates/a1f1b46fff034f91bc81ee77c246ee7f
 DAT210x: Programming with Python for Data Science
 https://courses.edx.org/certificates/06df509c67f642fbb80461ec74a0eb40
 
+DAT203.2x Principles of Machine Learning
+https://courses.edx.org/certificates/0dc67dba9d484445b45e7ef03b2e5b43
+
 DAT203.3x Applied Machine Learning
 https://courses.edx.org/certificates/7fe739644a0946cfabc0d6dc32fe2629
 
